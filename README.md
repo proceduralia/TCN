@@ -26,6 +26,7 @@ This repository contains the benchmarks to the following tasks, with details exp
   - **Permuted Sequential MNIST** (based on Seq. MNIST, but more challenging)
   - **JSB Chorales** polyphonic music
   - **Nottingham** polyphonic music
+  - **Delta Problem** *new*
   - **PennTreebank** [SMALL] word-level language modeling (LM)
   - **Wikitext-103** [LARGE] word-level LM
   - **LAMBADA** [LARGE] word-level LM and textual understanding
